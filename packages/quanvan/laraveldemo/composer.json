@@ -1,0 +1,17 @@
+{
+    "name": "quan/laraveldemo",
+    "authors": [
+        {
+            "name": "Quan Van",
+            "email": "quanvan1995@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "quanvan\\laraveldemo\\": "packages/quanvan/laraveldemo/src"
+        }
+    }
+
+}
